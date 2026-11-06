@@ -13,8 +13,8 @@ La app tiene dos pantallas con temática espacial:
 
 | Campo | Valor |
 |---|---|
-| Correo | `alejandro@orbita.app` |
-| Contraseña | `despegue` |
+| Correo | `alepacheco@correo.com` |
+| Contraseña | `2026` |
 | Nombre que se muestra | Alejandro |
 
 > Están escritos como constantes al principio de `ui/LoginScreen.kt`. En una app real vendrían de un servidor o de una base de datos.
